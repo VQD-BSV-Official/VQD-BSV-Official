@@ -30,8 +30,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=JpegRecovery&theme=dracula" />
 </a>    
 
-<a href="https://github.com/VQD-BSV/VideoRepairTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=VideoRepairTool&theme=synthwave" />
+<a href="https://github.com/VQD-BSV-Official/BSV-VideoRepair">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=BSV-VideoRepair&theme=synthwave" />
 </a>    
 
 

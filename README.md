@@ -1,5 +1,5 @@
 # 🏄‍♂️ Vũ Quang Đại (Bevis Vũ)
-**`Digital Craftsman (Developer/)`**
+**`Digital Craftsman (Developer/Trading/)`**
 
 
    <p align="left">

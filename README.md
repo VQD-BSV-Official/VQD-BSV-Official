@@ -1,5 +1,5 @@
 # 🏄‍♂️ Vũ Quang Đại (Bevis Vũ)
-**`Digital Craftsman (Developer/Trading/)`**
+**`Digital Craftsman (Developer/Trading/Data Recovery)`**
 
 
    <p align="left">
@@ -22,8 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=RecoveryData&theme=cobalt" />
 </a>   
 
-<a href="https://github.com/VQD-BSV/RecoveryJpeg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=RecoveryJpeg&theme=radical" />
+<a href="https://github.com/VQD-BSV-Official/RecoveryJpeg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=RecoveryJpeg&theme=radical" />
 </a>    
 
 <a href="https://github.com/VQD-BSV/JpegRecovery">

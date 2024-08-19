@@ -1,6 +1,7 @@
-# 🏄‍♂️ Vũ Quang Đại (Bevis Vũ)
+# 🧑‍💻 Vũ Quang Đại (Bevis Vũ)
 **`Digital Craftsman (Developer/Trading/Data Recovery)`**
 
+I still try 1% every day, I have been nurturing my passion since programming to learn about computers when I was a child. All source code or software makes things simple and useful. Please contribute ideas or questions you want
 
    <p align="left">
       <a href="https://www.youtube.com/@BSVRecovery">

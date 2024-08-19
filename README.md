@@ -12,8 +12,14 @@
    </p>
 
 ---
+### 🧰 Languages and Tools
 
-## 📊 Repositories
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<br />
+
+
+#
+
 <a href="https://github.com/VQD-BSV-Official/Malware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=Malware&theme=onedark" />
 </a>   

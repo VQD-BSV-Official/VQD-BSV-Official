@@ -1,7 +1,7 @@
-# 🧑‍💻 Vũ Quang Đại (Bevis Vũ)
-**`Digital Craftsman (Developer/Trading/Data Recovery)`**
-
-I still try 1% every day, I have been nurturing my passion since programming to learn about computers when I was a child. All source code or software makes things simple and useful. Please contribute ideas or questions you want
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=02F74B&width=440&lines=Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Trader+%F0%9F%91%A8%E2%80%8D%F0%9F%94%A7+Data+Recovery" alt="Typing SVG" /></a>
+</p>
 
    <p align="left">
       <a href="https://www.youtube.com/@BSVRecovery">
@@ -58,6 +58,8 @@ I still try 1% every day, I have been nurturing my passion since programming to 
 <a href="https://github.com/VQD-BSV/FreeTool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=FreeTool&theme=highcontrast" />
 </a>
+
+
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

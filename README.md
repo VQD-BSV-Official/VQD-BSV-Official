@@ -37,10 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=RecoveryJpeg&theme=radical" />
 </a>    
 
-<a href="https://github.com/VQD-BSV/JpegRecovery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=JpegRecovery&theme=dracula" />
-</a>    
-
 <a href="https://github.com/VQD-BSV-Official/BSV-VideoRepair">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=BSV-VideoRepair&theme=synthwave" />
 </a>    

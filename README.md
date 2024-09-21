@@ -46,8 +46,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=RecoveryFrame&theme=gruvbox" />
 </a>    
 
-<a href="https://github.com/VQD-BSV/Recovery_RZ">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=Recovery_RZ&theme=merko" />
+<a href="https://github.com/VQD-BSV-Official/BSV-ArchiveRepair">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=BSV-ArchiveRepair&theme=merko" />
 </a>
 
 

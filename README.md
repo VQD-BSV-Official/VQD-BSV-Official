@@ -51,11 +51,6 @@
 </a>
 
 
-<a href="https://github.com/VQD-BSV/FreeTool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=FreeTool&theme=highcontrast" />
-</a>
-
-
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

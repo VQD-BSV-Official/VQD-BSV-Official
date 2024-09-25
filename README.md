@@ -27,11 +27,7 @@
 
 <a href="https://github.com/VQD-BSV-Official/Malware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=Malware&theme=onedark" />
-</a>   
-
-<a href="https://github.com/VQD-BSV-Official/BSV-Reconstructor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=BSV-Reconstructor&theme=cobalt" />
-</a>   
+</a>    
 
 <a href="https://github.com/VQD-BSV-Official/RecoveryJpeg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=RecoveryJpeg&theme=radical" />

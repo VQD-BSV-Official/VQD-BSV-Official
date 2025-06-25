@@ -33,8 +33,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=RecoveryJpeg&theme=radical" />
 </a>    
 
-<a href="https://github.com/VQD-BSV-Official/BSV-VideoRepair">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=BSV-VideoRepair&theme=synthwave" />
+<a href="https://github.com/VQD-BSV-Official/DVFix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=DVFix&theme=synthwave" />
 </a>    
 
 <a href="https://github.com/VQD-BSV-Official/BSV-ArchiveRepair">

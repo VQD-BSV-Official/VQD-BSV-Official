@@ -25,21 +25,11 @@
 
 #
 
-<a href="https://github.com/VQD-BSV-Official/Malware">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV&repo=Malware&theme=onedark" />
-</a>    
-
-<a href="https://github.com/VQD-BSV-Official/RecoveryJpeg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=RecoveryJpeg&theme=radical" />
-</a>    
-
-<a href="https://github.com/VQD-BSV-Official/DVFix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=DVFix&theme=synthwave" />
-</a>    
-
-<a href="https://github.com/VQD-BSV-Official/BSV-ArchiveRepair">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VQD-BSV-Official&repo=BSV-ArchiveRepair&theme=merko" />
-</a>
+ <div>
+  <a href="https://www.fb.com/BevisVu278/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VQD-BSV-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VQD-BSV-Official&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 
 

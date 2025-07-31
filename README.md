@@ -28,7 +28,6 @@ I am an independent programmer and data recovery engineer, building my own versi
  <div>
   <a href="https://www.fb.com/BevisVu278/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VQD-BSV-Official&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VQD-BSV-Official&layout=compact&theme=tokyonight&langs_count=2"/>
 </div>
 
 

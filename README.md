@@ -1,7 +1,9 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=02F74B&width=440&lines=Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Trader+%F0%9F%91%A8%E2%80%8D%F0%9F%94%A7+Data+Recovery" alt="Typing SVG" /></a>
-</p>
+# 🏄‍♂️ Vũ Quang Đại - nickname Bevis Vũ
+
+**`Digital Craftsman (Developer/DataRecovery/)`**
+
+I am an independent programmer and data recovery engineer, building my own version of the digital world step by step. All programming projects are built from scratch, from planning and design to solving real problems with source code. I create tools to solve problems, or solutions
+
 
    <p align="left">
       <a href="https://www.youtube.com/@BSVRecovery">

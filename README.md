@@ -8,7 +8,7 @@ I am an independent programmer and data recovery engineer, building my own versi
    <p align="left">
       <a href="https://www.youtube.com/@BSVRecovery">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCTRSKTrJKxexebCFSBBX72A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@BSVRecovery">
+      <a href="https://www.youtube.com/@QuangDai.DataRecovery">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCTRSKTrJKxexebCFSBBX72A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/VQD-BSV?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VQD-BSV?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>      

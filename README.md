@@ -9,7 +9,6 @@ I am an independent programmer and data recovery engineer, building my own versi
 <div align="center">
   <a href="https://youtube.com/@QuangDai.DataRecovery"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
   <a href="https://fb.com/61596251660947"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"></a>
-  <a href="INSTAGRAM_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
   <a href="TELEGRAM_LINK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"></a>
   <a href="WHATSAPP_LINK"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:QDai.Dev08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>

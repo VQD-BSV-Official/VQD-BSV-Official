@@ -1,8 +1,11 @@
-# 🏄‍♂️ Vũ Quang Đại - nickname Bevis Vũ
+# Hi there, I'm Vũ Quang Đại (Bevis Vu)👋
 
-**`Digital Craftsman (Developer/DataRecovery/)`**
-
-I am an independent programmer and data recovery engineer, building my own version of the digital world step by step. All programming projects are built from scratch, from planning and design to solving real problems with source code. I create tools to solve problems, or solutions
+💻 Developer // Open Source Enthusiast
+- 🔭 I'm currently working on Python projects.
+- 🌱 I'm learning more about software development.
+- 💡 Interested in Data Recovery, Image Processing and Reverse Engineering.
+- 🚀 I love building useful open-source tools.
+- 📫 Contact: QDai.Dev08@gmail.com
 
 
 

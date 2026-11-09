@@ -38,10 +38,12 @@
 
 
 ###
+<p align="center">
+  <img height="200" src="https://github-readme-stats.shion.dev/api?username=VQD-BSV-Official&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=VQD-BSV-Official&theme=dark&hide_border=false" />
+</p>
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VQD-BSV-Official&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VQD-BSV-Official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
   

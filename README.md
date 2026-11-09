@@ -39,8 +39,8 @@
 
 ###
 <p align="center">
-  <img height="200" src="https://github-readme-stats.shion.dev/api?username=VQD-BSV-Official&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="200" src="https://streak-stats.demolab.com/?user=VQD-BSV-Official&theme=dark&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=VQD-BSV-Official&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=VQD-BSV-Official&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">

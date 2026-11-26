@@ -33,6 +33,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
 </div>
 
